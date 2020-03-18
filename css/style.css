@@ -149,7 +149,7 @@ nav{
 	border-radius: 15px;
 	min-width: 514px;
 	max-width: 630px;
-	background-color: rgba(239,234,203, .6);
+	background-color: rgba(239,234,203, .8);
 	/*rgba(19,11,0,0.6);*/
 }
 
@@ -190,7 +190,7 @@ article{
 
 	padding: 40px;
 	margin: 40px auto;
-	min-width: 400px;
+	min-width: 500px;
 	max-width: 10000px;
 	background-color: rgba(255,255,255,0.4);
 	border-radius: 20px;
