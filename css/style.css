@@ -216,7 +216,7 @@ article{
 	height: 100vh;
 }
 
-article section, .contact section{
+article section, .contact section, .fakeySection{
 	visibility: visible;
 	max-width: 600px;
 	padding: 45px;
